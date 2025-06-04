@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "name": "Datilologia",
+        "is_start": 0,
+        "is_finish": 0,
+        "step": 1
+    },
+    {
+        "_id": 2,
+        "name": "Saudações",
+        "is_start": 0,
+        "is_finish": 0,
+        "step": 1
+    },
+    {
+        "_id": 3,
+        "name": "Números",
+        "is_start": 0,
+        "is_finish": 0,
+        "step": 1
+    },
+    {
+        "_id": 4,
+        "name": "Cores",
+        "is_start": 0,
+        "is_finish": 0,
+        "step": 1
+    },
+    {
+        "_id": 5,
+        "name": "Extras",
+        "is_start": 0,
+        "is_finish": 0,
+        "step": 1
+    }
+
+]

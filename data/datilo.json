@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "name": "A",
+        "path": "assets/aulas/1/a.gif",
+        "aula_id": 1
+    },
+    {
+        "_id": 2,
+        "name": "B",
+        "path": "assets/aulas/1/b.gif",
+        "aula_id": 1
+    },
+    {
+        "_id": 3,
+        "name": "C",
+        "path": "assets/aulas/1/c.gif",
+        "aula_id": 1
+    },
+    {
+        "_id": 4,
+        "name": "D",
+        "path": "assets/aulas/1/d.gif",
+        "aula_id": 1
+    }
+]
