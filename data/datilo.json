@@ -1,26 +1,30 @@
 [
     {
-        "_id": 1,
         "name": "A",
         "path": "assets/aulas/1/a.gif",
+        "is_question": 0,
+        "is_answer": 0,
         "aula_id": 1
     },
     {
-        "_id": 2,
         "name": "B",
         "path": "assets/aulas/1/b.gif",
+        "is_question": 0,
+        "is_answer": 0,
         "aula_id": 1
     },
     {
-        "_id": 3,
         "name": "C",
-        "path": "assets/aulas/1/c.gif",
+        "": "assets/aulas/1/c.gif",
+        "is_question": 0,
+        "is_answer": 0,
         "aula_id": 1
     },
     {
-        "_id": 4,
         "name": "D",
         "path": "assets/aulas/1/d.gif",
+        "is_question": 0,
+        "is_answer": 0,
         "aula_id": 1
     }
 ]

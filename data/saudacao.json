@@ -1,48 +1,40 @@
 [
     {
-        "_id": 1,
         "name": "Bom dia",
         "path": "assets/aulas/2/bomdia.gif",
         "aula_id": 2
     },
     {
-        "_id": 2,
         "name": "Boa tarde",
         "path": "assets/aulas/2/boatarde.gif",
         "aula_id": 2
     },
     {
-        "_id": 3,
         "name": "Boa noite",
         "path": "assets/aulas/2/boanoite.gif",
         "aula_id": 2
     },
     {
-        "_id": 4,
         "name": "Obrigado",
         "path": "assets/aulas/2/obrigado.gif",
         "aula_id": 2
     },
     {
-        "_id": 5,
         "name": "Por favor",
         "path": "assets/aulas/2/porfavor.gif",
         "aula_id": 2
     },
     {
-        "_id": 6,
         "name": "Oi",
         "path": "assets/aulas/2/oi.gif",
         "aula_id": 2
     },
     {
-        "_id": 7,
         "name": "Colicença",
         "path": "assets/aulas/2/colicenca.gif",
         "aula_id": 2
     },
     {
-        "_id": 8,
         "name": "Tudo bem",
         "path": "assets/aulas/2/tudobem.gif",
         "aula_id": 2
