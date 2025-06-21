@@ -9,7 +9,7 @@ const createTables = async () => {
             profile_pic TEXT
         );
     `)
-    try {
+   
         db.exec(`
         CREATE TABLE IF NOT EXISTS score (
             id INTEGER PRIMARY KEY CHECK (id = 1) NOT NULL UNIQUE DEFAULT 1,
@@ -19,9 +19,7 @@ const createTables = async () => {
             FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE
         );
     `)
-    } catch (error) {
-        console.log(error)
-    }
+    
     
     db.exec(`
         CREATE TABLE IF NOT EXISTS aulas (

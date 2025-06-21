@@ -3,7 +3,7 @@ import { open } from 'sqlite'
 import path from 'path'
 
 const __dirname = path.resolve()
-const databasePath = path.join(__dirname, '../libras/assets/db/libras.db')
+const databasePath = path.join(__dirname, 'db/libras.db')
 console.log(databasePath)
 
 /**

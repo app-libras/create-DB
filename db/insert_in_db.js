@@ -83,12 +83,10 @@ async function insertMaterials(db, materials) {
  */
 async function insertScore() {
     const db = await openDB();
-    const stmt = await db.prepare(`
-        INSERT INTO score (user_id)
+    await db.run(`
+        INSERT OR IGNORE INTO score (user_id)
         VALUES (1)
     `);
-    await stmt.run();
-    await stmt.finalize();
     await db.close();
 }
 

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Banana",
+        "path": "assets/aulas/5/banana.gif",
+        "aula_id": 5,    
+        "is_question": 0,
+        "is_answer": 0
+    },
+    {
+        "name": "Abacaxi",
+        "path": "assets/aulas/5/abacaxi.gif",
+        "aula_id": 5,    
+        "is_question": 0,
+        "is_answer": 0
+    },
+    {
+        "name": "Laranja",
+        "path": "assets/aulas/5/laranja.gif",
+        "aula_id": 5,    
+        "is_question": 0,
+        "is_answer": 0
+    }
+]
