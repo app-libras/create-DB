@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Ana",
+        "path": "assets/aulas/6/ana.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Boca",
+        "path": "assets/aulas/6/boca.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Bola",
+        "path": "assets/aulas/6/bola.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Casa",
+        "path": "assets/aulas/6/casa.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Celular",
+        "path": "assets/aulas/6/celular.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Dia",
+        "path": "assets/aulas/6/dia.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Flor",
+        "path": "assets/aulas/6/flor.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Laço",
+        "path": "assets/aulas/6/laco.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Gato",
+        "path": "assets/aulas/6/gato.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Ovo",
+        "path": "assets/aulas/6/ovo.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Queijo",
+        "path": "assets/aulas/6/queijo.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Rato",
+        "path": "assets/aulas/6/rato.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    },
+    {
+        "name": "Uva",
+        "path": "assets/aulas/6/uva.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 6,
+        "has_two_path": 0
+    }
+]

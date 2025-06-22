@@ -4,56 +4,64 @@
         "path": "assets/aulas/2/bomdia.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Boa tarde",
         "path": "assets/aulas/2/boatarde.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Boa noite",
         "path": "assets/aulas/2/boanoite.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Obrigado",
         "path": "assets/aulas/2/obrigado.gif",
         "aula_id": 2,    
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Por favor",
         "path": "assets/aulas/2/porfavor.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Oi",
         "path": "assets/aulas/2/oi.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Com licença",
         "path": "assets/aulas/2/comlicenca.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     },
     {
         "name": "Tudo bem",
         "path": "assets/aulas/2/tudobem.gif",
         "aula_id": 2,
         "is_question": 0,
-        "is_answer": 0
+        "is_answer": 0,
+        "has_two_path": 0
     }
     
 ]

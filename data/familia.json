@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Famílias",
+        "path": "assets/aulas/5/fam.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 1
+    },
+    {
+        "name": "Pai",
+        "path": "assets/aulas/5/pai.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Maê",
+        "path": "assets/aulas/5/mae.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Filho",
+        "path": "assets/aulas/5/filho.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Tio",
+        "path": "assets/aulas/5/tio.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Sobrinho",
+        "path": "assets/aulas/5/sobrinho.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Homem",
+        "path": "assets/aulas/5/homem.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Mulher",
+        "path": "assets/aulas/5/mulher.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Irmão",
+        "path": "assets/aulas/5/irmao.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Primo",
+        "path": "assets/aulas/5/primo.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Criança",
+        "path": "assets/aulas/5/crianca.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Vovó feminino",
+        "path": "assets/aulas/5/vovof.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    },
+    {
+        "name": "Vovó masculino",
+        "path": "assets/aulas/5/vovom.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0
+    }
+]

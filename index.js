@@ -27,6 +27,8 @@ async function writeToDB() {
     await insertMaterials(db, await readJsonFile('./data/datilo.json'));
     await insertMaterials(db, await readJsonFile('./data/saudacao.json'));
     await insertMaterials(db, await readJsonFile('./data/frutas.json'));
+    await insertMaterials(db, await readJsonFile('./data/familia.json'));
+    await insertMaterials(db, await readJsonFile('./data/bonos.json'));
     // await insertMaterials(db, await readJsonFile('./data/quest.json'));
     await insertMaterials(db, await readJsonFile('./data/nume.json'));
     db.close();
