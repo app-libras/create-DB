@@ -4,7 +4,7 @@
         "name": "Datilologia",
         "is_start": 0,
         "is_finish": 0,
-        "step": 0,
+        "step": 1,
         "correct_cunt": 0
     },
     {
@@ -12,7 +12,7 @@
         "name": "Saudações",
         "is_start": 0,
         "is_finish": 0,
-        "step": 0,
+        "step": 1,
         "correct_cunt": 0
     },
     {
@@ -20,7 +20,7 @@
         "name": "Números",
         "is_start": 0,
         "is_finish": 0,
-        "step": 0,
+        "step": 1,
         "correct_cunt": 0
     },
     {
@@ -28,7 +28,7 @@
         "name": "Frutas",
         "is_start": 0,
         "is_finish": 0,
-        "step": 0,
+        "step": 1,
         "correct_cunt": 0
     },
     {
@@ -36,15 +36,15 @@
         "name": "Famílias",
         "is_start": 0,
         "is_finish": 0,
-        "step": 0,
+        "step": 1,
         "correct_cunt": 0
     },
     {
         "id": 6,
-        "name": "Extras",
+        "name": "Praticas",
         "is_start": 0,
         "is_finish": 0,
-        "step": 0,
+        "step": 1,
         "correct_cunt": 0
     }
 ]

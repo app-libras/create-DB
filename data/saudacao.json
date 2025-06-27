@@ -5,7 +5,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 1
     },
     {
         "name": "Boa tarde",
@@ -13,7 +14,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 2
     },
     {
         "name": "Boa noite",
@@ -21,7 +23,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 3
     },
     {
         "name": "Obrigado",
@@ -29,7 +32,8 @@
         "aula_id": 2,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 4
     },
     {
         "name": "Por favor",
@@ -37,7 +41,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 5
     },
     {
         "name": "Oi",
@@ -45,7 +50,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 6
     },
     {
         "name": "Com licença",
@@ -53,7 +59,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 7
     },
     {
         "name": "Tudo bem",
@@ -61,7 +68,8 @@
         "aula_id": 2,
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 8
     }
     
 ]

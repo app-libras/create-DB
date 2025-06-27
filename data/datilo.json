@@ -5,7 +5,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 1
     },
     {
         "name": "A",
@@ -13,7 +14,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 2
     },
     {
         "name": "B",
@@ -21,7 +23,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 3
     },
     {
         "name": "C",
@@ -29,7 +32,17 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 4
+    },
+    {
+        "name": "Ç",
+        "path": "assets/aulas/1/ce.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 1,
+        "has_two_path": 0,
+        "is_material": 5
     },
     {
         "name": "D",
@@ -37,7 +50,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 6
     },
     {
         "name": "E",
@@ -45,7 +59,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 7
     },
     {
         "name": "F",
@@ -53,7 +68,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 8
     },
     {
         "name": "G",
@@ -61,7 +77,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 9
     },
     {
         "name": "H",
@@ -69,7 +86,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 10
     },
     {
         "name": "I",
@@ -77,7 +95,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 11
     },
     {
         "name": "J",
@@ -85,7 +104,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 12
     },
     {
         "name": "K",
@@ -93,7 +113,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 13
     },
     {
         "name": "L",
@@ -101,7 +122,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 14
     },    
     {
         "name": "M",
@@ -109,7 +131,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 15
     },
     {
         "name": "N",
@@ -117,7 +140,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 16
     },
     {
         "name": "O",
@@ -125,7 +149,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 17
     },
     {
         "name": "P",
@@ -133,7 +158,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 18
     },
     {
         "name": "Q",
@@ -141,7 +167,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 19
     },
     {
         "name": "R",
@@ -149,7 +176,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 20
     },
     {
         "name": "S",
@@ -157,7 +185,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 21
     },
     {
         "name": "T",
@@ -165,7 +194,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 22
     },
     {
         "name": "U",
@@ -173,7 +203,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 23
     },
     {
         "name": "V",
@@ -181,7 +212,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 24
     },
     {
         "name": "W",
@@ -189,7 +221,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 25
     },
     {
         "name": "X",
@@ -197,7 +230,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 26
     },
     {
         "name": "Y",
@@ -205,7 +239,8 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 27
     },
     {
         "name": "Z",
@@ -213,6 +248,7 @@
         "is_question": 0,
         "is_answer": 0,
         "aula_id": 1,
-        "has_two_path": 0
+        "has_two_path": 0,
+        "is_material": 28
     }
 ]

@@ -2,65 +2,73 @@
     {
         "name": "Banana",
         "path": "assets/aulas/4/banana.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 1
     },
     {
         "name": "Acerola",
         "path": "assets/aulas/4/acerola.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 2
     },
     {
         "name": "Bacuri",
         "path": "assets/aulas/4/bacuri.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 3
     },
     {
         "name": "Coco",
         "path": "assets/aulas/4/coco.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 4
     },
     {
         "name": "Cupuaçu",
         "path": "assets/aulas/4/cupuacu.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 5
     },
     {
         "name": "Ingá",
         "path": "assets/aulas/4/inga.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 6
     },
     {
         "name": "Muruci",
         "path": "assets/aulas/4/muruci.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 7
     },
     {
         "name": "Pupunha",
         "path": "assets/aulas/4/pupunha.gif",
-        "aula_id": 5,    
+        "aula_id": 4,    
         "is_question": 0,
         "is_answer": 0,
-        "has_two_path": 1
+        "has_two_path": 1,
+        "is_material": 8
     }
 ]
