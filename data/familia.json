@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Famílias",
+        "path": "assets/aulas/5/fam.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 1,
+        "is_material": 1
+    },
+    {
+        "name": "Pai",
+        "path": "assets/aulas/5/pai.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 2
+    },
+    {
+        "name": "Mãe",
+        "path": "assets/aulas/5/mae.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 3
+    },
+    {
+        "name": "Filho",
+        "path": "assets/aulas/5/filho.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 4
+    },
+    {
+        "name": "Tio",
+        "path": "assets/aulas/5/tio.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 5
+    },
+    {
+        "name": "Sobrinho",
+        "path": "assets/aulas/5/sobrinho.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 6
+    },
+    {
+        "name": "Homem",
+        "path": "assets/aulas/5/homem.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 7
+    },
+    {
+        "name": "Mulher",
+        "path": "assets/aulas/5/mulher.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 8
+    },
+    {
+        "name": "Irmão",
+        "path": "assets/aulas/5/irmao.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 9
+    },
+    {
+        "name": "Primo",
+        "path": "assets/aulas/5/primo.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 10
+    },
+    {
+        "name": "Criança",
+        "path": "assets/aulas/5/crianca.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 11
+    },
+    {
+        "name": "Vovó",
+        "path": "assets/aulas/5/vovof.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 12
+    },
+    {
+        "name": "Vovô",
+        "path": "assets/aulas/5/vovom.gif",
+        "is_question": 0,
+        "is_answer": 0,
+        "aula_id": 5,
+        "has_two_path": 0,
+        "is_material": 13
+    }
+]

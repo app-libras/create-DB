@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Números",
+        "path": "assets/aulas/3/nume.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 1
+    },
+    {
+        "name": "0",
+        "path": "assets/aulas/3/0.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 2
+    },
+    {
+        "name": "1",
+        "path": "assets/aulas/3/1.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 3
+    },
+    {
+        "name": "2",
+        "path": "assets/aulas/3/2.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 4
+    },
+    {
+        "name": "3",
+        "path": "assets/aulas/3/3.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 5
+    },
+    {
+        "name": "4",
+        "path": "assets/aulas/3/4.gif",
+        "aula_id": 3,
+        "is_question": 0,    
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 6
+    },
+    {
+        "name": "5",
+        "path": "assets/aulas/3/5.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 7
+    },
+    {
+        "name": "6",
+        "path": "assets/aulas/3/6.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 8
+    },
+    {
+        "name": "7",
+        "path": "assets/aulas/3/7.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 9
+    },
+    {
+        "name": "8",
+        "path": "assets/aulas/3/8.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 10
+    },
+    {
+        "name": "9",
+        "path": "assets/aulas/3/9.gif",
+        "aula_id": 3,
+        "is_question": 0,
+        "is_answer": 0,
+        "has_two_path": 0,
+        "is_material": 11
+    }
+]
