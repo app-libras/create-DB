@@ -54,13 +54,13 @@ async function insertMaterials(db, materials) {
     try {
         // Prepare the statement.
         stmt = await db.prepare(`
-            INSERT INTO materials (name, path, aula_id, has_two_path, is_question, is_answer)
-            VALUES (?, ?, ?, ?, ?, ?)
+            INSERT INTO materials (name, path, aula_id, has_two_path, is_question, is_answer, is_material)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
             `);
             
         // Loop through each material and insert it into the database.
         for (const material of materials) {
-            await stmt.run(material.name, material.path, material.aula_id, material.has_two_path, material.is_question, material.is_answer);
+            await stmt.run(material.name, material.path, material.aula_id, material.has_two_path, material.is_question, material.is_answer, material.is_material);
         }
 
         // Commit the transaction.

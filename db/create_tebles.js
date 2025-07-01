@@ -30,7 +30,8 @@ const createTables = async () => {
             path TEXT NOT NULL UNIQUE,
             has_two_path INTEGER NOT NULL DEFAULT 0,
             is_question INTEGER NOT NULL DEFAULT 0,
-            is_answer INTEGER NOT NULL DEFAULT 0,            
+            is_answer INTEGER NOT NULL DEFAULT 0,
+            is_material INTEGER NOT NULL,            
             aula_id INTEGER NOT NULL,
             FOREIGN KEY(aula_id) REFERENCES aulas(id) ON DELETE CASCADE
         );`
